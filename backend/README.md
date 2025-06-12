@@ -1,6 +1,6 @@
 # Backend Service
 
-The backend service for the Coding Challenge Generator, built with Python.
+The backend service for the DevOps Challenge Quiz, built with Python.
 
 ## Setup
 

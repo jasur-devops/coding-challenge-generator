@@ -6,7 +6,7 @@ export function Layout(){
     return <div className="app-layout">
         <header className="app-header">
             <div className="header-content">
-                <h1>Quran Challenge Generator</h1>
+                <h1>DevOps Challenge Quiz</h1>
                 <nav>
                     <SignedIn>
                         <Link to="/">Generate Challenge</Link>
